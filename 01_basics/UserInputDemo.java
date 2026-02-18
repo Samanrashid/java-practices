@@ -5,10 +5,6 @@ public class UserInputDemo {
     System.out.println("enter name: ");
     String name = scanner.nextLine();
     System.out.println("name is : " + name);
-
-
-
-    
   }
   
 }
